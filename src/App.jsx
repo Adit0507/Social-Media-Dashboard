@@ -1,9 +1,11 @@
+import Header from "./components/Header"
+import Followers from "./components/Followers"
+import Overview from "./components/Overview"
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-6xl text-align:center font-bold underline">HIQEE</h1>      
-    </div>
+    <>
+    </>
   )
 }
 
