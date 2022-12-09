@@ -5,6 +5,11 @@ import Overview from "./components/Overview"
 function App() {
   return (
     <>
+      <section>
+        <Header />
+        <Followers />
+        <Overview />
+      </section>
     </>
   )
 }
