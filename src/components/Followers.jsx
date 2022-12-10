@@ -20,7 +20,7 @@ const Followers = () => {
           </ul>
 
           <h2 className="text-5xl font-bold text-slate-800 dark:text-white text-center my-5">
-            2000{" "}
+            1987{" "}
             <span className="text-sm block text-slate-600 dark:text-slate-400 font-normal uppercase tracking-widest">
               Followers
             </span>
